@@ -2,5 +2,3 @@ This is a sample text file for commiting changes from the local computer to
 the remote github.
 
 
-This is just a modification to the sample file.
-
